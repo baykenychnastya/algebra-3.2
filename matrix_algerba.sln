@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32602.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrix_algerba", "matrix_algerba.csproj", "{86F401F7-46C0-41DE-BEC2-104367601DFA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F977FB36-A186-453A-8F1F-D1D7B28341DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86F401F7-46C0-41DE-BEC2-104367601DFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F401F7-46C0-41DE-BEC2-104367601DFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F401F7-46C0-41DE-BEC2-104367601DFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F401F7-46C0-41DE-BEC2-104367601DFA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B09BCBC-6F81-4A71-B534-731B408C96B8}
+	EndGlobalSection
+EndGlobal
